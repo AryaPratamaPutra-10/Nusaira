@@ -52,9 +52,20 @@ Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan ke
 - Data Collection <br />
 Kami menemukan data kami di Kaggle.
 - Data Cleaning <br />
-Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang belum dibersihkan dan yang sudah: 
+Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang sudah dibersihkan : 
 
-Poin soal dataset boleh ditambahkan sesuai kebutuhan.
+Jenis Budidaya Pembesaran|Provinsi|Kabupaten/Kota|Jenis Ikan|Tahun|Volume Produksi|Nilai Produksi
+KOLAM AIR TENANG|JAWA BARAT|BANDUNG|LELE|2019|5372785|85964560000.0
+KOLAM AIR TENANG|JAWA BARAT|BANDUNG BARAT|LELE|2019|1328082|19921230000.0
+KOLAM AIR TENANG|JAWA BARAT|BEKASI|LELE|2019|2019121|34325057000.0
+KOLAM AIR TENANG|JAWA BARAT|BOGOR|LELE|2019|89814340|1526843780000.0
+KOLAM AIR TENANG|JAWA BARAT|CIAMIS|LELE|2019|18162827|236116751000.0
+KOLAM AIR TENANG|JAWA BARAT|CIANJUR|LELE|2019|14124120|225985920000.0
+KOLAM AIR TENANG|JAWA BARAT|CIREBON|LELE|2019|9987423|199748460000.0
+KOLAM AIR TENANG|JAWA BARAT|GARUT|LELE|2019|3162167|53756839000.0
+KOLAM AIR TENANG|JAWA BARAT|INDRAMAYU|LELE|2019|70666948|1060004220000.0
+KOLAM AIR TENANG|JAWA BARAT|KARAWANG|LELE|2019|759058|9108696000.0
+KOLAM AIR TENANG|JAWA BARAT|KOTA BANDUNG|LELE|2019|51015|867255000.0
 
 ### 2. Algorithm
 
