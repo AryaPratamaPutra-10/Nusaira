@@ -80,6 +80,10 @@ Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang 
 | KOLAM AIR TENANG          | JAWA BARAT | KARAWANG        | LELE       | 2019  | 759,058          | Rp9,108,696,000       |
 | KOLAM AIR TENANG          | JAWA BARAT | KOTA BANDUNG    | LELE       | 2019  | 51,015           | Rp867,255,000         |
 
+Kami menggunakan matriks korelasi untuk melihat kesinambungan data
+![Uploading image.png…]()
+
+
 ### 2. Algorithm
 
 - Framework <br />
