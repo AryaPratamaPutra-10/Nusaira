@@ -32,9 +32,10 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 ## Idea Background
 
 ### 1. Theme
-Tema : Agraria kami mengambil aquaculture
+Tema : Agraris/Perikanan/Aquaculture
 
 ### 2. Problem yang ditimbulkan
+- Manajemen penjualan pada tambak lele yang masih tradisional
 - Manajemen pakan pada tambak lele yang tidak terukur
 - Pengelolaan air di tambak lele yang tidak optimal
 - Menurunnya produktivitas yang bisa menyebabkan kerugian
@@ -87,7 +88,7 @@ Kami menggunakan matriks korelasi untuk melihat kesinambungan data
 ### 2. Algorithm
 
 - Framework <br />
-Kami menggunakan TensorFlow dan Keras.
+Framework yang digunakan adalah TensorFlow.
 
 - Pembangunan Model <br />
 Masukkan kode training dan juga spesifikasi model, seperti epoch, learning rate, batch size, dan lain sebagainya.
