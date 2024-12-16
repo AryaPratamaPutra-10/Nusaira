@@ -50,7 +50,18 @@ Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan ke
 
 ### 1. Dataset
 - Data Collection <br />
-Kami menemukan data kami di Kaggle.
+Sumber Data 1 (KKP - Harga dan Produksi Ikan Lele):
+
+Menyediakan data harga ikan lele dari 3 provinsi. Memuat data hasil produksi perikanan, mencakup volume dan nilai produksi. Rasio antara volume produksi dan nilai produksi dihitung untuk mengetahui rata-rata biaya produksi ikan.
+
+Sumber Data 2 (BPS - NTPi untuk Petani):
+
+Data NTPi (Nilai Tukar Petani ikan) dari BPS. Menunjukkan indeks harga yang harus dibayar dan yang diterima oleh petani, memberikan gambaran daya beli petani.
+```
+https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/data_lele.csv
+```
+
+
 - Data Cleaning <br />
 Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang sudah dibersihkan : 
 
