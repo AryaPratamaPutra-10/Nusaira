@@ -54,7 +54,7 @@ Kami menemukan data kami di Kaggle.
 - Data Cleaning <br />
 Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang sudah dibersihkan : 
 
-Jenis Budidaya Pembesaran|Provinsi|Kabupaten/Kota|Jenis Ikan|Tahun|Volume Produksi|Nilai Produksi
+
 | Jenis Budidaya Pembesaran | Provinsi  | Kabupaten/Kota | Jenis Ikan | Tahun | Volume Produksi | Nilai Produksi         |
 |---------------------------|-----------|-----------------|------------|-------|------------------|------------------------|
 | KOLAM AIR TENANG          | JAWA BARAT | BANDUNG         | LELE       | 2019  | 5,372,785        | Rp85,964,560,000       |
