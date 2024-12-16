@@ -59,7 +59,7 @@ Sumber Data 2 (BPS - NTPi untuk Petani):
 
 Data NTPi (Nilai Tukar Petani ikan) dari BPS. Menunjukkan indeks harga yang harus dibayar dan yang diterima oleh petani, memberikan gambaran daya beli petani.
 ```
-https://github.com/AryaPratamaPutra-10/NUSAIRA-AI/blob/main/data_lele.csv
+https://github.com/AryaPratamaPutra-10/Nusaira/blob/main/Prediksi%20Harga%20Ai/data_lele_pakai.csv
 ```
 
 
